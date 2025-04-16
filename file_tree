@@ -1,0 +1,77 @@
+├── pages
+│   ├── 3d_Files_Sources.mdx
+│   ├── 3d_SCULPTING
+│   │   └── Sculpting.mdx
+│   ├── 3d_classroom.mdx
+│   ├── Calabration
+│   │   ├── General_Maintance.mdx
+│   │   ├── Handy_Test_Models.mdx
+│   │   ├── Materal_Calabration.mdx
+│   │   ├── PID_Tune.mdx
+│   │   ├── Printer_Calabration.mdx
+│   │   └── Tension_Adjustments.mdx
+│   ├── Control
+│   │   ├── Firmware.mdx
+│   │   └── Gcode_Commands.mdx
+│   ├── Lesson_Plans
+│   │   ├── Intoduction_to_3d_Printing.mdx
+│   │   └── Introduction_to_3d_design.mdx
+│   ├── Manufaturers_Supplyers.mdx
+│   ├── Materals_Overview.mdx
+│   ├── Mechanical
+│   │   ├── Hardware-Definitions.mdx
+│   │   ├── Nozzles.mdx
+│   │   └── Physical_limmitiaions.mdx
+│   ├── Modeling_for_Printing.mdx
+│   ├── Other_Useful
+│   │   ├── 3d_Viewer.mdx
+│   │   ├── GIMP.mdx
+│   │   ├── HueForge.mdx
+│   │   ├── Inksacpes.mdx
+│   │   ├── Luban3d.mdx
+│   │   ├── MakerWorld_MakerLab.mdx
+│   │   ├── Meshmixer.mdx
+│   │   └── OpenScad.mdx
+│   ├── Parametric_CAD
+│   │   ├── Audtodesk_Inventor.mdx
+│   │   ├── AutoCad.mdx
+│   │   ├── CAD.mdx
+│   │   ├── Creo.mdx
+│   │   ├── FreeCad.mdx
+│   │   ├── Fusion360.mdx
+│   │   └── Onshape.mdx
+│   ├── Print_Preperation
+│   │   ├── Sliceing_Software
+│   │   │   ├── Bambu_Studio.mdx
+│   │   │   ├── Cura.mdx
+│   │   │   ├── Ideamaker.mdx
+│   │   │   ├── Kiri:Moto.mdx
+│   │   │   ├── Orca.mdx
+│   │   │   ├── Overhangs
+│   │   │   ├── Prusa.mdx
+│   │   │   ├── Slic3r.mdx
+│   │   │   ├── Slicer_Overview.mdx
+│   │   │   └── SuperSlicer.mdx
+│   │   └── Slicing_General
+│   │       ├── Best_Pratices.mdx
+│   │       ├── Large_Models.mdx
+│   │       ├── Limmitations.mdx
+│   │       ├── Overhangs.mdx
+│   │       ├── Slicing_Peramiters_Features.mdx
+│   │       └── supports.mdx
+│   ├── Printers
+│   │   ├── Manufactures.mdx
+│   │   └── What_to_look_for.mdx
+│   ├── Recomended_Settings.mdx
+│   ├── Repositories.mdx
+│   ├── Subjuect_models.mdx
+│   ├── TINKER_CAD.mdx
+│   ├── Teacher.mdx
+│   ├── Troubleshooting
+│   │   ├── Bed_Adheason.mdx
+│   │   ├── Extrussion_issues.mdx
+│   │   ├── Mechanical_Issues.mdx
+│   │   └── Quality_Issues.mdx
+│   ├── _app.tsx
+│   ├── _meta.json
+│   └── index.mdx
